@@ -1,4 +1,3 @@
-# sleeplinessdetection
 # Sleepiness Detector
 
 A real-time sleepiness detection application using a laptop camera. This program monitors eye movements to detect drowsiness by calculating the Eye Aspect Ratio (EAR). If the user shows signs of drowsiness, the program displays a "Sleepiness Detected" warning on the screen.
